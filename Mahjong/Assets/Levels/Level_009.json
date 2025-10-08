@@ -1,0 +1,382 @@
+{
+    "Tiles": [
+        {
+            "TileID": "Pic_14",
+            "TypeOfTile": "Pic",
+            "NumberValue": 14,
+            "Position": {
+                "x": -4.800000190734863,
+                "y": 12.90000057220459,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Pic_14",
+            "TypeOfTile": "Pic",
+            "NumberValue": 14,
+            "Position": {
+                "x": 1.5999999046325684,
+                "y": 2.15000057220459,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_11",
+            "TypeOfTile": "Pic",
+            "NumberValue": 11,
+            "Position": {
+                "x": 8.0,
+                "y": 10.75,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_11",
+            "TypeOfTile": "Pic",
+            "NumberValue": 11,
+            "Position": {
+                "x": -1.6000001430511475,
+                "y": 2.15000057220459,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_6",
+            "TypeOfTile": "Pic",
+            "NumberValue": 6,
+            "Position": {
+                "x": -1.5999999046325684,
+                "y": -4.300000190734863,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Pic_6",
+            "TypeOfTile": "Pic",
+            "NumberValue": 6,
+            "Position": {
+                "x": 1.5999999046325684,
+                "y": -2.1499996185302736,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_6",
+            "TypeOfTile": "Pic",
+            "NumberValue": 6,
+            "Position": {
+                "x": 8.0,
+                "y": 15.050000190734864,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_6",
+            "TypeOfTile": "Pic",
+            "NumberValue": 6,
+            "Position": {
+                "x": 4.800000190734863,
+                "y": -6.450000762939453,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_6",
+            "TypeOfTile": "Pic",
+            "NumberValue": 6,
+            "Position": {
+                "x": -8.0,
+                "y": 10.75,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_6",
+            "TypeOfTile": "Pic",
+            "NumberValue": 6,
+            "Position": {
+                "x": -8.0,
+                "y": 15.050000190734864,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_14",
+            "TypeOfTile": "Pic",
+            "NumberValue": 14,
+            "Position": {
+                "x": 4.800000190734863,
+                "y": 15.050000190734864,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_14",
+            "TypeOfTile": "Pic",
+            "NumberValue": 14,
+            "Position": {
+                "x": 1.6000001430511475,
+                "y": -6.450000762939453,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_12",
+            "TypeOfTile": "Pic",
+            "NumberValue": 12,
+            "Position": {
+                "x": -1.5999999046325684,
+                "y": 15.050000190734864,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Pic_12",
+            "TypeOfTile": "Pic",
+            "NumberValue": 12,
+            "Position": {
+                "x": -1.5999999046325684,
+                "y": -2.15000057220459,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Bamboo_2",
+            "TypeOfTile": "Bamboo",
+            "NumberValue": 2,
+            "Position": {
+                "x": 4.800000190734863,
+                "y": 0.0,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Bamboo_8",
+            "TypeOfTile": "Bamboo",
+            "NumberValue": 8,
+            "Position": {
+                "x": 1.6000001430511475,
+                "y": -4.300000190734863,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Dot_3",
+            "TypeOfTile": "Dot",
+            "NumberValue": 3,
+            "Position": {
+                "x": -1.5999999046325684,
+                "y": -6.450000762939453,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Dot_7",
+            "TypeOfTile": "Dot",
+            "NumberValue": 7,
+            "Position": {
+                "x": 4.800000190734863,
+                "y": -2.15000057220459,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Dot_2",
+            "TypeOfTile": "Dot",
+            "NumberValue": 2,
+            "Position": {
+                "x": -8.0,
+                "y": 6.449999809265137,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Dot_8",
+            "TypeOfTile": "Dot",
+            "NumberValue": 8,
+            "Position": {
+                "x": -4.800000190734863,
+                "y": 15.050000190734864,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Dot_2",
+            "TypeOfTile": "Dot",
+            "NumberValue": 2,
+            "Position": {
+                "x": 1.6000001430511475,
+                "y": -2.15000057220459,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Dot_8",
+            "TypeOfTile": "Dot",
+            "NumberValue": 8,
+            "Position": {
+                "x": -4.800000190734863,
+                "y": 10.75,
+                "z": 0.30000001192092898
+            },
+            "Layer": 2,
+            "ZOffset": 0.30000001192092898
+        },
+        {
+            "TileID": "Dot_4",
+            "TypeOfTile": "Dot",
+            "NumberValue": 4,
+            "Position": {
+                "x": -1.5999999046325684,
+                "y": 0.0,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Dot_6",
+            "TypeOfTile": "Dot",
+            "NumberValue": 6,
+            "Position": {
+                "x": -8.0,
+                "y": 8.600000381469727,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Dot_5",
+            "TypeOfTile": "Dot",
+            "NumberValue": 5,
+            "Position": {
+                "x": 8.0,
+                "y": 12.90000057220459,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Dot_5",
+            "TypeOfTile": "Dot",
+            "NumberValue": 5,
+            "Position": {
+                "x": 4.800000190734863,
+                "y": -4.300000190734863,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Simple_2",
+            "TypeOfTile": "Simple",
+            "NumberValue": 2,
+            "Position": {
+                "x": -8.0,
+                "y": 12.90000057220459,
+                "z": 0.6000000238418579
+            },
+            "Layer": 3,
+            "ZOffset": 0.6000000238418579
+        },
+        {
+            "TileID": "Simple_8",
+            "TypeOfTile": "Simple",
+            "NumberValue": 8,
+            "Position": {
+                "x": 4.800000190734863,
+                "y": 2.15000057220459,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Bamboo_1",
+            "TypeOfTile": "Bamboo",
+            "NumberValue": 1,
+            "Position": {
+                "x": -1.6000001430511475,
+                "y": -2.1499996185302736,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Bamboo_9",
+            "TypeOfTile": "Bamboo",
+            "NumberValue": 9,
+            "Position": {
+                "x": 4.800000190734863,
+                "y": -2.1499996185302736,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        }
+    ],
+    "ComplexityScore": 4.5,
+    "Targets": [
+        {
+            "TargetType": "PicMatch",
+            "TargetValue": "Pic_14",
+            "RequiredCount": 1
+        },
+        {
+            "TargetType": "PicMatch",
+            "TargetValue": "Pic_11",
+            "RequiredCount": 1
+        },
+        {
+            "TargetType": "PicMatch",
+            "TargetValue": "Pic_6",
+            "RequiredCount": 3
+        }
+    ]
+}

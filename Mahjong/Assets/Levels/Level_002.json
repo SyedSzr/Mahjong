@@ -1,0 +1,161 @@
+{
+    "Tiles": [
+        {
+            "TileID": "Pic_7",
+            "TypeOfTile": "Pic",
+            "NumberValue": 7,
+            "Position": {
+                "x": -3.200000047683716,
+                "y": -2.1500000953674318,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_7",
+            "TypeOfTile": "Pic",
+            "NumberValue": 7,
+            "Position": {
+                "x": 0.0,
+                "y": -2.1500000953674318,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_11",
+            "TypeOfTile": "Pic",
+            "NumberValue": 11,
+            "Position": {
+                "x": 3.200000047683716,
+                "y": -6.450000286102295,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_11",
+            "TypeOfTile": "Pic",
+            "NumberValue": 11,
+            "Position": {
+                "x": -3.200000047683716,
+                "y": 2.1500000953674318,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_11",
+            "TypeOfTile": "Pic",
+            "NumberValue": 11,
+            "Position": {
+                "x": 3.200000047683716,
+                "y": 2.1500000953674318,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Pic_11",
+            "TypeOfTile": "Pic",
+            "NumberValue": 11,
+            "Position": {
+                "x": -3.200000047683716,
+                "y": -6.450000286102295,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Simple_1",
+            "TypeOfTile": "Simple",
+            "NumberValue": 1,
+            "Position": {
+                "x": 0.0,
+                "y": 6.450000286102295,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Simple_9",
+            "TypeOfTile": "Simple",
+            "NumberValue": 9,
+            "Position": {
+                "x": 0.0,
+                "y": 2.1500000953674318,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Dot_4",
+            "TypeOfTile": "Dot",
+            "NumberValue": 4,
+            "Position": {
+                "x": 3.200000047683716,
+                "y": -2.1500000953674318,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Dot_6",
+            "TypeOfTile": "Dot",
+            "NumberValue": 6,
+            "Position": {
+                "x": 0.0,
+                "y": -6.450000286102295,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Simple_2",
+            "TypeOfTile": "Simple",
+            "NumberValue": 2,
+            "Position": {
+                "x": -3.200000047683716,
+                "y": 6.450000286102295,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        },
+        {
+            "TileID": "Simple_8",
+            "TypeOfTile": "Simple",
+            "NumberValue": 8,
+            "Position": {
+                "x": 3.200000047683716,
+                "y": 6.450000286102295,
+                "z": 0.0
+            },
+            "Layer": 1,
+            "ZOffset": 0.0
+        }
+    ],
+    "ComplexityScore": 1.7000000476837159,
+    "Targets": [
+        {
+            "TargetType": "PicMatch",
+            "TargetValue": "Pic_7",
+            "RequiredCount": 1
+        },
+        {
+            "TargetType": "PicMatch",
+            "TargetValue": "Pic_11",
+            "RequiredCount": 2
+        }
+    ]
+}

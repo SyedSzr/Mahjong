@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613940662321",
+    "project_id": "mahjong-match10",
+    "storage_bucket": "mahjong-match10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613940662321:android:9b449f253395f30e9e0510",
+        "android_client_info": {
+          "package_name": "com.ownGame.mahjong.match10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lrLXxbh4_vjfMlWvZJwW6-7k3NzPp3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
